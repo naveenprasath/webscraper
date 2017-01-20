@@ -21,7 +21,7 @@ import java.util.*;
 /**
  * Created by naveen on 9/19/2016.
  */
-public class RebateChanges {
+public class URLandPDFChanges {
     static Properties mailServerProperties;
     static Session getMailSession;
     static MimeMessage generateMailMessage;
